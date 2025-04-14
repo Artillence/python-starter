@@ -4,8 +4,7 @@ A four-day Python course covering basic Python fundamentals, OOP, and the Databa
 
 ## Setup Instructions
 
-1. Download the **dot edition** of WinPython from this link:  
-   [WinPython 13.1.202502222final](https://github.com/winpython/winpython/releases/tag/13.1.202502222final)  
+1. Download the **dot edition** of WinPython from this link: [WinPython 13.1.202502222final](https://github.com/winpython/winpython/releases/tag/13.1.202502222final)  
    Direct download: [Winpython64-3.12.9.0dot.zip](https://github.com/winpython/winpython/releases/download/13.1.202502222final/Winpython64-3.12.9.0dot.zip)
 
 2. Unzip the downloaded file to any directory.
